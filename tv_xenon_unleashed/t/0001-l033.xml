@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="33">
+
+<page id="33232472" title="DeadAir Fill T Files" descr="used in DeadAir Fill" voice="no">
+ <t id="100">(UI Stuff)</t>
+ <t id="101">Options de remplissage DeadAir</t>
+ <t id="102">La fréquence à laquelle DeadAir Fill vérifiera les stations. Par défaut=60</t>
+ <t id="103">Vérifier l'intervalle</t>
+ <t id="104">Le pourcentage de capacité le plus bas qu'un entrepôt peut atteindre avant de retirer du fret {20102,1051}. Définissez-le à 100 pour désactiver l'enlèvement de la cargaison. Par défaut=90.</t>
+ <t id="105">Max {20102,1051} Entrepôt %</t>
+ <t id="106">Le pourcentage de la capacité d'un entrepôt après le retrait de la cargaison aux points {20102,1051}. Par défaut=75.</t>
+ <t id="107">Ajusté Max {20102,1051} Entrepôt %</t>
+ <t id="108">Le pourcentage de capacité le plus élevé qu'un entrepôt peut avoir avant d'ajouter du fret au niveau {20102,1051}. Défini à 0 pour désactiver l'ajout de marchandises. Par défaut=5.</t>
+ <t id="109">Min {20102,1051} Entrepôt %</t>
+ <t id="110">Le pourcentage de la capacité d'un entrepôt après l'ajout d'une cargaison à l'endroit où se trouve l'entrepôt. {20102,1051}. Par défaut=10.</t>
+ <t id="111">Ajusté Min {20102,1051} Entrepôt %</t>
+ <t id="112">Le pourcentage de capacité le plus élevé qu'un entrepôt peut atteindre avant d'ajouter du fret à l'entrée. {20102,1071}/{20102,1081}. Mettez la valeur 0 pour désactiver l'ajout de marchandises. Par défaut=5.</t>
+ <t id="113">Min {20102,1071}/{20102,1081} Entrepôt %</t>
+ <t id="114">Le pourcentage de la capacité d'un entrepôt après l'ajout d'une cargaison à l'endroit où se trouve l'entrepôt. {20102,1071}/{20102,1081}. Default=10.</t>
+ <t id="115">Ajusté Min {20102,1071}/{20102,1081} Entrepôt %</t>
+</page>
+</language>
